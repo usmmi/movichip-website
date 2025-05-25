@@ -1,0 +1,132 @@
+body{
+    margin: 0px;
+    font-family: Helvetica, sans-serif;
+}
+.main {
+   display: flex; 
+   margin: auto;
+   width: 1280px;
+   height: 80px;
+   border-bottom: 1px solid rgb(153, 152, 152);
+}
+img{
+    margin: 10px 0px 10px 10px; 
+    width: 150px;
+    height: 60px;
+}
+nav{
+    display: flex;
+    width: 700px;
+    height: 80px;
+
+}
+.nav-list{
+    display: flex;
+    list-style: none;
+    margin-left: -20px;
+}
+
+li{
+    margin-top: 10px;
+    margin-right: 20px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+button {
+ border:white ;
+ font-size: 17px;
+ background-color: white;
+ cursor: pointer;
+}
+.lang-1 {
+    height: 80px;
+    width: 150px;
+}
+.lang-button{
+    margin: 30px 110px ;
+    font-size: 13px;
+    font-weight: lighter;
+    cursor: pointer;
+}
+
+.log-button {
+    margin-left: 10px;
+    margin-top: 18px;
+    height: 40px;
+    width: 250px;
+    background-color: #8c7343;
+}
+#accounts {
+    margin-top: 10px;
+    margin-left: 40px;
+    background-color: #8c7343;
+    color: white;
+
+}
+.container-1-main {
+    width: 1280px;
+    height:800px ;
+    box-shadow: 0px 0px 5px grey;
+}
+.container-1-1{
+    justify-content: center;
+    width: 1280px;
+    height: 720px;
+    background-image: url(./6255-01_16by9.webp) ;
+    background-size: cover;
+    margin: auto;
+    background-color: black;
+    filter: brightness(80%);
+    opacity: 0.9;
+}
+.container-1-11{
+    width: 1250px;
+    height: 500px;
+    text-align: center;
+    /* border: 1px solid black; */
+}
+.container-1-11 h1 {
+    text-shadow: 0px 0px 8px black;
+    font-size: 70px;
+    font-weight: lighter;
+    text-transform: uppercase;
+    color: white;
+    /* border: 1px solid white; */
+}
+.container-1-12{
+    width: 1250px;
+    height: 210px;
+    /* border: 1px solid #8c7343; */
+}
+.container-1-12 button{
+    width: 180px;
+    height: 50px;
+    margin-top: 100px;
+    margin-left: 550px;
+    background-color:#8c7343;
+    color: white;
+}
+.title-1-button {
+    width: 250px;
+    height: 150px;
+    margin: 350px 150px 0px 0px ;
+
+}
+.container-1-2 {
+    width: 1280px;
+    height:80px ;
+
+}
+.text-1{
+    display: flex;
+    justify-content: center;
+    width: 1280px;
+    height: 600px;
+    background-color: #8c7343;
+}
