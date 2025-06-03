@@ -78,7 +78,7 @@ button {
     justify-content: center;
     width: 1280px;
     height: 720px;
-    background-image: url(./6255-01_16by9.webp) ;
+    background-image: url(./images/6255-01_16by9.webp) ;
     background-size: cover;
     margin: auto;
     background-color: black;
@@ -220,7 +220,7 @@ button {
    width: 380px;
     height: 300px;
     margin: auto;
-    background-image: url(./Mövenpick\ Karachi\ 001.webp);
+    background-image: url(./images/Mövenpick\ Karachi\ 001.webp);
     background-size: cover;
 }
 .container-5-12{
@@ -269,7 +269,7 @@ button {
      width: 380px;
     height: 300px;
     margin: auto;
-    background-image: url(./Mövenpick\ Karachi\ 006.webp);
+    background-image: url(./images/Mövenpick\ Karachi\ 006.webp);
     background-size: cover;
 }
 .container-5-22{
@@ -307,7 +307,7 @@ button {
     width: 380px;
     height: 300px;
     margin: auto;
-    background-image:url(./Mövenpick\ Karachi\ 065.webp);
+    background-image:url(./images/Mövenpick\ Karachi\ 065.webp);
     background-size: cover;
 }
 .container-5-32{
@@ -359,7 +359,7 @@ width: 1200px;
 height: 545px;
 /* border: 1px solid salmon; */
 margin: 60px auto;
-background-image: url(./Coffee_beef_duo_xx_i127502-1_11by5.jfif);
+background-image: url(./images/Coffee_beef_duo_xx_i127502-1_11by5.jfif);
 background-size: contain;
 }
 .container-8{
@@ -373,7 +373,7 @@ display: flex;
 width: 50%;
 height: 100%;
 /* border: 1px solid hotpink; */
-background-image: url(./70years_zurichstyle__i124078-1_1by1.webp);
+background-image: url(./images/70years_zurichstyle__i124078-1_1by1.webp);
 background-size: contain;
 }
 .container-8-2{
@@ -417,7 +417,7 @@ display: flex;
     width: 560px;
     height: 374px;
     /* border: 1px solid goldenrod; */
-    background-image: url(./6255-29.webp);
+    background-image: url(./images/6255-29.webp);
     background-size: contain;
     margin-left: 10px ;
     /* margin-right: 0px; */
@@ -458,7 +458,7 @@ display: flex;
     width: 560px;
     height: 374px;
     /* border: 1px solid goldenrod; */
-    background-image: url(./Mövenpick\ Karachi\ 079.webp);
+    background-image: url(./images/Mövenpick\ Karachi\ 079.webp);
     background-size: contain;
     margin-left: 10px;
 }
@@ -589,7 +589,7 @@ text-align: center;
     height: 545px;
     margin-left: 40px;
     /* border: 1px solid sandybrown; */
-    background-image: url(./Jimbaran_xxxxxxxxx_i126380_11by5.webp);
+    background-image: url(./images/Jimbaran_xxxxxxxxx_i126380_11by5.webp);
     background-size:contain;
 }
 .container-11-3{
@@ -650,7 +650,7 @@ text-align: center;
 width: 50%;
 height: 100%;
 /* border: 1px solid hotpink; */
-background-image: url(./6255-92_1by1.webp);
+background-image: url(./images/6255-92_1by1.webp);
 background-size: contain;
 }
 .container-12-22{
@@ -867,7 +867,7 @@ margin-top: 15px;
     width: 25px;
     height: 25px;
     border: 1px solid green;
-    background-image: url(./1b4be295-0130-47aa-96f8-55a36b3ba2d8.webp);
+    background-image: url(./images/1b4be295-0130-47aa-96f8-55a36b3ba2d8.webp);
     background-size:contain;
     margin-top: -8px;
     margin-left: -2px;
