@@ -204,7 +204,8 @@ button {
 .container-5{
     width: 1280px;
     height: 550px;
-    border: 1px solid #474747;
+    border-bottom: 1px solid #474747;
+    border-top: 1px solid #474747;
     display: flex;
 }
 .container-5-1{
@@ -220,7 +221,7 @@ button {
    width: 380px;
     height: 300px;
     margin: auto;
-    background-image: url(./images/Mövenpick\ Karachi\ 001.webp);
+    background-image: url(./images/Moovenpick\ Karachi\ 001.webp);
     background-size: cover;
 }
 .container-5-12{
@@ -269,7 +270,7 @@ button {
      width: 380px;
     height: 300px;
     margin: auto;
-    background-image: url(./images/Mövenpick\ Karachi\ 006.webp);
+    background-image: url(./images/Movenpick\ Karachi\ 006.webp);
     background-size: cover;
 }
 .container-5-22{
@@ -307,7 +308,7 @@ button {
     width: 380px;
     height: 300px;
     margin: auto;
-    background-image:url(./images/Mövenpick\ Karachi\ 065.webp);
+    background-image:url(./images/Movenpick\ Karachi\ 065.webp);
     background-size: cover;
 }
 .container-5-32{
@@ -458,7 +459,7 @@ display: flex;
     width: 560px;
     height: 374px;
     /* border: 1px solid goldenrod; */
-    background-image: url(./images/Mövenpick\ Karachi\ 079.webp);
+    background-image: url(./images/Movenpick\ Karachi\ 079.webp);
     background-size: contain;
     margin-left: 10px;
 }
